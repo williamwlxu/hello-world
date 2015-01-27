@@ -10,9 +10,7 @@ import com.google.gwt.user.client.rpc.RemoteServiceRelativePath;
 public interface GreetingService extends RemoteService {
 	String greetServer(String name) throws IllegalArgumentException;
 /**
- * MADE SOME CHANGES~!!!!
- * @@@@@@@@@@@
- * THIS SHOULD CAUSE merge conflict	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
  */
 //	//MADE A CHANGE TO TEST COMMIT
 
