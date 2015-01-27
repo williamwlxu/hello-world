@@ -13,6 +13,10 @@ public interface GreetingService extends RemoteService {
  * MADE SOME CHANGES~!!!!
  * @@@@@@@@@@@
  * THIS SHOULD CAUSE merge conflict	!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+ * 
+ * 
+ * 
+ * CAUSE MERGE CONFLICT
  */
 //	//MADE A CHANGE TO TEST COMMIT
 
