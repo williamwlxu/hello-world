@@ -18,6 +18,7 @@ public class GreetingServiceImpl extends RemoteServiceServlet implements
 	public String greetServer(String name) throws IllegalArgumentException {
 		System.out.println("yolo!!!");
 		System.out.println("do something....");
+
 		return "";
 	}
 
