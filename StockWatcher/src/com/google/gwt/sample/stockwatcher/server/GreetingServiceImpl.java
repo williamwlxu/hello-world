@@ -5,7 +5,7 @@ import com.google.gwt.sample.stockwatcher.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**
- * Comment goes here
+ * Comment goes here @@@@@@@@@@@@@@@@@@@@@@@
  */
 @SuppressWarnings("serial")
 public class GreetingServiceImpl extends RemoteServiceServlet implements
@@ -17,7 +17,7 @@ public class GreetingServiceImpl extends RemoteServiceServlet implements
 	@Override
 	public String greetServer(String name) throws IllegalArgumentException {
 		// TODO Auto-generated method stub
-		return null;
+		return "";
 	}
 
 	public void printStuff(){
