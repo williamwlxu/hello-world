@@ -16,7 +16,7 @@ public class GreetingServiceImpl extends RemoteServiceServlet implements
 
 	@Override
 	public String greetServer(String name) throws IllegalArgumentException {
-		// TODO Auto-generated method stub
+		System.out.println("~~~~~~~~~~~~~~~~~~~~~~");
 		return "";
 	}
 
